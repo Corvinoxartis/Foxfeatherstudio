@@ -1,2 +1,2 @@
-# Featherfox Studio
+# Foxfeather Studio
 My website builder
